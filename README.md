@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ne0busin3ss (David Philip Raymond)
-- 👀 I’m interested in AI, Python, Golang, Data Science and physics 
-- 🌱 I’m currently learning Python, Golang, and JavaScript  
+- 🌱 I'm continuing my programming education with a focus on  Python, Golang, and JavaScript  
 - 💞️ I’m in the process of developing AI agents using Claude, Gemini, and OpenRouter
 - Education: University of Houston-Downtown graduate, 2006. Bachelors degree in Business with minor in Information Systems. Graduated Magna cum laude.
 - Certifications: Project Management professional (PMP), PMI-ACP, Lean Six Sigma Green Belt.
