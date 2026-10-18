@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @ne0busin3ss (David Philip Raymond)
-- 🌱 I'm continuing my programming education with a focus on Python, Golang, and JavaScript
-- 💞 I'm in the process of developing AI agents using Claude, Gemini, and OpenRouter as well as researching AI cost, performance and asking a simple question: is it worth it?
+- 🌱 I'm continuing my programming education with a focus on Python, Golang, and JavaScript.
+- 💞 Developing AI agents as well as researching AI cost relative to benefits.
 - 🎓 Education: University of Houston-Downtown graduate, 2006. Bachelors degree in Business with minor in Information Systems. Graduated Magna cum laude.
-- 📜 Certifications: Project Management Professional (PMP), PMI-ACP, Lean Six Sigma Green Belt.
+- 📜 Certifications: Project Management Professional (PMP), PMI-ACP.
 - 📫 How to reach me: ne0busin3ss@gmail.com
 
 <!---
